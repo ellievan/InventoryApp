@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="action_delete_all_entries">Delete All Items</string>
+    <string name="editor_activity_title_new_item">Add an Item</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="unit_item_quantity">units</string>
+    <string name="item_image">Image</string>
+    <string name="editor_insert_item_successful">Item saved</string>
+    <string name="editor_insert_item_failed">Error with saving item</string>
+    <string name="editor_update_item_failed">Error updating</string>
+    <string name="editor_update_item_successful">Updated</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="editor_delete_item_successful">Item deleted</string>
+    <string name="editor_delete_item_failed">Error with deleting pet</string>
+    <string name="delete_dialog_msg">Delete this item? </string>
+    <string name="delete_dialog_msg_all"> Delete all items? </string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty_view_title_text"> No items available in Inventory </string>
+    <string name="empty_view_subtitle_text">Add some items from the button below </string>
+    <string name="plus_button_text"> + </string>
+    <string name="minus_button_text"> - </string>
+    <string name="seller_email_hint"> Seller Email </string>
+    <string name="action_order"> Order Now </string>
+    <string name="hint_item_name">Item Name</string>
+    <string name="hint_item_price">Item Price</string>
+    <string name="item_name_required">Item name required</string>
+</resources>
